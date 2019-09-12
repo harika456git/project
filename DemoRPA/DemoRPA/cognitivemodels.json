@@ -1,0 +1,90 @@
+{
+  "cognitiveModels": {
+    "en": {
+      "dispatchModel": {
+        "authoringkey": "7c7255d570ee4c858722921300a4d4b6",
+        "appid": "20ba31df-e537-4584-a01a-5a8de8b076e0",
+        "name": "DevQRMDispatch",
+        "subscriptionkey": "73e13b6514334e5196b47b13ba5328c9",
+        "region": "canadacentral"
+      },
+      "languageModels": [
+        {
+          "subscriptionkey": "73e13b6514334e5196b47b13ba5328c9",
+          "appid": "20ba31df-e537-4584-a01a-5a8de8b076e0",
+          "id": "9",
+          "version": "0.1",
+          "region": "canadacentral",
+          "name": "DevQRMDispatch",
+          "authoringkey": "7c7255d570ee4c858722921300a4d4b6"
+        },
+        {
+          "subscriptionkey": "50707fc644004d68a5185113f4be5be2",
+          "appid": "14a40371-e5ae-4268-ab4b-e1de2ba8fa18",
+          "id": "11",
+          "version": "0.1",
+          "region": "canadacentral",
+          "name": "DevQRMLUIS",
+          "authoringkey": "7c7255d570ee4c858722921300a4d4b6"
+        }
+      ],
+      "knowledgebases": [
+        {
+          "endpointKey": "856589e5-43d7-4a85-b70f-7d10cfe39997",
+          "kbId": "1a34fcdf-1db2-4710-a997-4eae3ef71021",
+          "hostname": "https://devcacbqna.azurewebsites.net/qnamaker",
+          "subscriptionKey": "19173f4a550448aaa18502fc5060a5d6",
+          "name": "FAQRMQnA",
+          "id": "118"
+        }
+      ]
+    }
+  },
+  "defaultLocale": "en-us"
+}
+
+
+//{
+//  "cognitiveModels": {
+//    "en": {
+//      "dispatchModel": {
+//        "authoringkey": "7c7255d570ee4c858722921300a4d4b6",
+//        "appid": "2fc50979-dc6f-457c-b20f-486a1db4029f",
+//        "name": "QRMDispatch",
+//        "subscriptionkey": "7c7255d570ee4c858722921300a4d4b6",
+//        "region": "westus"
+//      },
+//      "languageModels": [
+//        {
+//          "subscriptionkey": "7c7255d570ee4c858722921300a4d4b6",
+//          "appid": "2fc50979-dc6f-457c-b20f-486a1db4029f",
+//          "id": "9",
+//          "version": "0.1",
+//          "region": "westus",
+//          "name": "QRMDispatch",
+//          "authoringkey": "7c7255d570ee4c858722921300a4d4b6"
+//        },
+//        {
+//          "subscriptionkey": "7c7255d570ee4c858722921300a4d4b6",
+//          "appid": "746b9252-056a-4352-b52f-614d68689bc9",
+//          "id": "11",
+//          "version": "0.1",
+//          "region": "westus",
+//          "name": "QRM",
+//          "authoringkey": "7c7255d570ee4c858722921300a4d4b6"
+//        }
+//      ],
+//      "knowledgebases": [
+//        {
+//          "endpointKey": "856589e5-43d7-4a85-b70f-7d10cfe39997",
+//          "kbId": "1a34fcdf-1db2-4710-a997-4eae3ef71021",
+//          "hostname": "https://devcacbqna.azurewebsites.net/qnamaker",
+//          "subscriptionKey": "19173f4a550448aaa18502fc5060a5d6",
+//          "name": "FAQRMQnA",
+//          "id": "118"
+//        }        
+//      ]
+//    }
+//  },
+//  "defaultLocale": "en-us"
+//}

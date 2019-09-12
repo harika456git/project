@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRPA", "DemoRPA\DemoRPA\DemoRPA.csproj", "{2038A323-8DB5-490B-A82F-677BFB551879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRPA.Tests", "DemoRPA\DemoRPA.Tests\DemoRPA.Tests.csproj", "{DA050CF4-3A01-4DA4-9016-4E50D1AF23F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2038A323-8DB5-490B-A82F-677BFB551879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2038A323-8DB5-490B-A82F-677BFB551879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2038A323-8DB5-490B-A82F-677BFB551879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2038A323-8DB5-490B-A82F-677BFB551879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA050CF4-3A01-4DA4-9016-4E50D1AF23F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA050CF4-3A01-4DA4-9016-4E50D1AF23F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA050CF4-3A01-4DA4-9016-4E50D1AF23F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA050CF4-3A01-4DA4-9016-4E50D1AF23F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED2D2EF-C14B-4FC3-B3F5-2D1B6704ADAD}
+	EndGlobalSection
+EndGlobal
